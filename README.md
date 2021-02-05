@@ -1,24 +1,17 @@
 # Discord RPC
 
-## Project setup
-```
-yarn install
-```
+> A small program to have a custom status in discord using Discord RPC
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+This project uses [Discord RPC](https://github.com/discordjs/rpc) to connect
+and interface with the discord client, and generate a custom status. This way
+you can have buttons and images as well as the normal default text.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Installation and usage
 
-### Lints and fixes files
-```
-yarn lint
-```
+1. Install dependencies
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+   ```bash
+   yarn install
+   ```
+
+_more to come when I remember to add it_
